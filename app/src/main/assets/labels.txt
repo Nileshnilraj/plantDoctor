@@ -1,0 +1,10 @@
+potato_early_blight
+Potato_healthy
+Potato_Late_blight
+Tomato_targeted_spot
+Tomato_Mosic_virus
+Tomato_yellowleaf_curlvirus
+Tomato_Bacterial_spot
+Tomato_earlyblight
+tomato_healthy
+toamato_late_blight

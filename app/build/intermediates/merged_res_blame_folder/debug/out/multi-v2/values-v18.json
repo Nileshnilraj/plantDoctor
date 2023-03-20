@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "nilesh.com.greendoctor.app-mergeDebugResources-20:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\triph\\.gradle\\caches\\transforms-3\\6af3b186dcd845ea58377d14faefdb22\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

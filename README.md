@@ -18,3 +18,8 @@ Open PlantDoctor on your device.
 Point your device's camera at the plant you want to analyze. 
 Take a picture of the plant. 
 The app will analyze the picture and identify the plant disease.
+
+app demo video
+
+https://user-images.githubusercontent.com/41547476/226498920-b2955320-a86e-490c-950f-c3a094bab532.mp4
+
